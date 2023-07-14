@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RQR",
+        "RSR",
+        "T T"
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "S": {
+            "item": "minecraft:end_crystal"
+        },
+        "Q": {
+            "item": "minecraft:shulker_shell"
+        },
+        "T": {
+            "item": "minecraft:feather"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 1
+    }
+}

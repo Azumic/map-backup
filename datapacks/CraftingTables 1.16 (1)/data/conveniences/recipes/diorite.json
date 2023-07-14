@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "minecraft:diorite",
+        "count": 4
+    },
+    "pattern": [
+        " G ",
+        "G#G",
+        " G "
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:cobblestone"
+        },
+        "#": {
+            "item": "minecraft:quartz_block"
+        }
+    }
+}

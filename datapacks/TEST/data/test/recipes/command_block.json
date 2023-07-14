@@ -1,0 +1,23 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "111",
+        "121",
+        "333"
+    ],
+    "key":{
+        "1":{
+            "item":"minecraft:stone"
+        },
+        "2":{
+            "item":"minecraft:redstone"
+        },
+        "3":{
+            "item":"minecraft:dirt"
+        }
+    },
+    "result":{
+        "item":"minecraft:command_block",
+        "count":1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "minecraft:granite",
+        "count": 4
+    },
+    "pattern": [
+        " G ",
+        "G#G",
+        " G "
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:diorite"
+        },
+        "#": {
+            "item": "minecraft:quartz_block"
+        }
+    }
+}

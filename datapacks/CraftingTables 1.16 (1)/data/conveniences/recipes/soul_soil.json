@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " I ",
+        "BBB",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:oak_log"
+        },
+        "B": {
+            "item": "minecraft:stick"
+        },
+        "I": {
+            "item": "minecraft:soul_sand"
+        }
+    },
+    "result": {
+        "item": "minecraft:soul_soil",
+        "count": 1
+    }
+}

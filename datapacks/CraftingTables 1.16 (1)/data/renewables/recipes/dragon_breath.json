@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "minecraft:dragon_breath",
+        "count": 9
+    },
+    "pattern": [
+        "PPP",
+        "PIP",
+        "PPP"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:dragon_breath"
+        },
+        "P": {
+            "item": "minecraft:glass_bottle"
+        }
+    }
+}

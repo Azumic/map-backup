@@ -1,0 +1,29 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "minecraft:ancient_debris",
+        "count": 1
+    },
+    "pattern": [
+        "HIH",
+        "G#G",
+        "FFF"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:diamond"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "#": {
+            "item": "minecraft:nether_star"
+        },
+        "H": {
+            "item": "minecraft:iron_block"
+        },
+        "F": {
+            "item": "minecraft:bone_block"
+        }
+    }
+}

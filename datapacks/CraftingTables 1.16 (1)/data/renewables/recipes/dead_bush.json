@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "saplings"
+        }
+    ],
+    "result": {
+        "item": "minecraft:dead_bush",
+        "count": 1
+    }
+}
